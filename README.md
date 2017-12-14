@@ -10,7 +10,7 @@ Project contains a `.pro` file, created using **QT Designer** to place a single 
 
 ###### If you want to contribute? Great!
 
-[QTOpenCvViewerGl Widget]:(https://github.com/Myzhar/QtOpenCVViewerGl)
+[QTOpenCvViewerGl Widget]:<https://github.com/Myzhar/QtOpenCVViewerGl>
 [OpenCV]: <https://opencv.org/>
 [QT]: <https://www.qt.io/>
 [CMake]: <https://cmake.org/>
